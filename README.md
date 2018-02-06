@@ -10,6 +10,8 @@
 
 # Polymath.js
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/priom/polymath.js.svg)](https://greenkeeper.io/)
+
 Polymath.js is the main library for interacting with Polymath's smart contracts. It is written in javascript using flow, babel and eslint. The documentation is automatically generated using documentationjs. See the docs here(insert link when live).
 
 [Read the whitepaper](whitepaper.pdf)
