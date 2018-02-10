@@ -6177,9 +6177,9 @@ watchpack@^1.4.0:
     chokidar "^1.7.0"
     graceful-fs "^4.1.2"
 
-web3@0.20.1:
-  version "0.20.1"
-  resolved "https://registry.yarnpkg.com/web3/-/web3-0.20.1.tgz#fb262e9ad71552167a6af012fdd420de017032f0"
+web3@0.20.4:
+  version "0.20.4"
+  resolved "https://registry.yarnpkg.com/web3/-/web3-0.20.4.tgz#400e6579a65bb4a3dde71a6ebf6509afadc33a04"
   dependencies:
     bignumber.js "git+https://github.com/frozeman/bignumber.js-nolookahead.git"
     crypto-js "^3.1.4"
