@@ -2,20 +2,20 @@
 # yarn lockfile v1
 
 
-"@0xproject/utils@^0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@0xproject/utils/-/utils-0.1.2.tgz#450bbb4b831389ee54f07fb846c6bcfba7df29d9"
+"@0xproject/utils@^0.3.3":
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/@0xproject/utils/-/utils-0.3.3.tgz#6c8161b5992e9d59e9d67e794258a6b7b6cdfef3"
   dependencies:
     bignumber.js "~4.1.0"
     js-sha3 "^0.7.0"
     lodash "^4.17.4"
+    web3 "^0.20.0"
 
-"@0xproject/web3-wrapper@0.1.2":
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/@0xproject/web3-wrapper/-/web3-wrapper-0.1.2.tgz#14576997b657a51504d3f20dd4d4f9546b8030ed"
+"@0xproject/web3-wrapper@0.1.13":
+  version "0.1.13"
+  resolved "https://registry.yarnpkg.com/@0xproject/web3-wrapper/-/web3-wrapper-0.1.13.tgz#1d628fa140ac581ccb6a7935339ddf7d35a2aeaf"
   dependencies:
-    "@0xproject/utils" "^0.1.2"
-    bignumber.js "~4.1.0"
+    "@0xproject/utils" "^0.3.3"
     lodash "^4.17.4"
     web3 "^0.20.0"
 
